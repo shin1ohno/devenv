@@ -30,6 +30,7 @@ brew "the_silver_searcher"
 brew "tree"
 brew "x264"
 brew "zsh"
+brew "idevicescreenshot"
 
 tap "caskroom/homebrew-versions"
 
