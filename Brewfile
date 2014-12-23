@@ -31,6 +31,7 @@ brew "tree"
 brew "x264"
 brew "zsh"
 brew "idevicescreenshot"
+brew "carthage"
 
 tap "caskroom/homebrew-versions"
 
