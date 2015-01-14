@@ -32,6 +32,7 @@ brew "x264"
 brew "zsh"
 brew "libimobiledevice"
 brew "carthage"
+brew "clang-format"
 
 tap "caskroom/homebrew-versions"
 
