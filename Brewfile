@@ -54,6 +54,7 @@ cask "java"
 cask "sequel-pro"
 cask "airserver"
 cask "duet"
+cask "android-studio"
 
 tap "caskroom/fonts"
 cask "font-source-code-pro"
