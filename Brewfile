@@ -33,6 +33,7 @@ brew "zsh"
 brew "libimobiledevice"
 brew "carthage"
 brew "clang-format"
+brew "pyenv"
 
 tap "caskroom/homebrew-versions"
 
