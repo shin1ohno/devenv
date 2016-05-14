@@ -1,6 +1,7 @@
 tap "phinze/cask"
 tap "Homebrew/brewdler"
 
+brew "argon/mas/mas"
 brew "brew-cask"
 brew "boot2docker"
 brew "ctags"
