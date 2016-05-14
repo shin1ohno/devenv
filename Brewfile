@@ -1,11 +1,11 @@
 tap "phinze/cask"
 tap "Homebrew/brewdler"
+tap "argon/mas"
 
 brew "argon/mas/mas"
 brew "brew-cask"
 brew "boot2docker"
 brew "ctags"
-brew "curl"
 brew "docker"
 brew "ffmpeg"
 brew "git"
