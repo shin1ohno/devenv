@@ -35,6 +35,7 @@ brew "libimobiledevice"
 brew "carthage"
 brew "clang-format"
 brew "pyenv"
+brew "envchain"
 
 tap "caskroom/homebrew-versions"
 
