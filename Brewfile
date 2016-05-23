@@ -36,6 +36,7 @@ brew "carthage"
 brew "clang-format"
 brew "pyenv"
 brew "envchain"
+brew "postgresql"
 
 tap "caskroom/homebrew-versions"
 
@@ -57,6 +58,8 @@ cask "android-studio"
 cask "intellij-idea"
 cask "datagrip"
 cask "rubymine"
+cask "clion"
+cask "pycharm"
 cask "dockertoolbox"
 
 tap "caskroom/fonts"
