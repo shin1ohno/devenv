@@ -5,7 +5,7 @@
 - [Install homebrew](http://brew.sh)
 - brew install rbenv ruby-build
 - Install latest ruby wirh rbenv
-- ```gem install brewdle && brewdle```
+- ```brew bundle```
 - [Install yadr](https://github.com/skwp/dotfiles)
 - Link zsh before files e.g. ```ln -s ~/Documents/work/devenv/zsh/before/*.zsh .```
   - ```boot2docker init && boot2docker shellinit``` to check docker envs
