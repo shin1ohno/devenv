@@ -48,6 +48,7 @@ cask "java"
 cask "android-studio"
 cask "jetbrains-toolbox"
 cask "roon"
+cask "atom"
 
 tap "caskroom/fonts"
 cask "font-source-code-pro"
