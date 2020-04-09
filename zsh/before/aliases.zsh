@@ -4,7 +4,6 @@ function list_files_of_current_dir() { script -q /dev/null ls -GFa . | tr -d '\r
 function chpwd() { list_files_of_current_dir }
 
 #fzf
-unalias ff
 ff() {
   local dir
   dir=$(find ${1:-.} -maxdepth 5 -path '*/\.*' -prune \
