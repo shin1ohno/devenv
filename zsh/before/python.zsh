@@ -1,3 +1,2 @@
-if (( $+commands[td] )); then
-  alias inote="TD_API_KEY=`td apikey` ipython notebook"
-fi
+eval "$(pyenv init -)"
+eval "`pip completion --zsh`"
