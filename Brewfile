@@ -36,8 +36,6 @@ brew "nvim"
 brew "sshuttle"
 brew "libidn"
 
-# tap "homebrew/cask-cask"
-
 cask "phantomjs"
 cask "google-chrome-dev"
 cask "firefox"
@@ -55,3 +53,8 @@ cask "kindle"
 cask "docker"
 cask "alacritty"
 cask "aerial"
+cask "miro-formerly-realtimeboard"
+cask "grammarly"
+cask "charles"
+
+mas "Focus To-Do", id: 1258530160
